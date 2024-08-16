@@ -1,0 +1,15 @@
+{'HCM offline Status:': ';24B;16;10', 'Check_LAN': '', 'Check_latest_version': '', 'Check_time_zone': '', 'Check_tool_version': '', 'Check_SSD_Storegare': '', 'Check_journal_Status': '', 'Error_Journal_Cammand': ''}
+{'HN offline Status:': ';20', 'Check_LAN': '', 'Check_latest_version': '', 'Check_time_zone': '', 'Check_tool_version': '', 'Check_SSD_Storegare': '', 'Check_journal_Status': '', 'Error_Journal_Cammand': ''}
+{'DNG offline Status:': '', 'Check_LAN': '', 'Check_latest_version': '', 'Check_time_zone': '', 'Check_tool_version': '', 'Check_SSD_Storegare': '', 'Check_journal_Status': '', 'Error_Journal_Cammand': ''}
+{'KHH offline Status:': '', 'Check_LAN': ';01;04B;02', 'Check_latest_version': '', 'Check_time_zone': '', 'Check_tool_version': '', 'Check_SSD_Storegare': '', 'Check_journal_Status': '', 'Error_Journal_Cammand': ''}
+{'DAK offline Status:': '', 'Check_LAN': '', 'Check_latest_version': '', 'Check_time_zone': '', 'Check_tool_version': '', 'Check_SSD_Storegare': '', 'Check_journal_Status': '', 'Error_Journal_Cammand': ''}
+{'GIL offline Status:': ';01;02B', 'Check_LAN': '', 'Check_latest_version': '', 'Check_time_zone': '', 'Check_tool_version': '', 'Check_SSD_Storegare': '', 'Check_journal_Status': '', 'Error_Journal_Cammand': ''}
+{'NGA offline Status:': '', 'Check_LAN': '', 'Check_latest_version': '', 'Check_time_zone': '', 'Check_tool_version': '', 'Check_SSD_Storegare': '', 'Check_journal_Status': '', 'Error_Journal_Cammand': ''}
+HCM: 14,HN: 11,DNG: 4,KHH: 3,DAK: 0,GIL: 2,NGA: 0
+HCM: ['02', '03', '04', '05', '07', '09', '12', '13', '14', '17', '19', '20', '21B', '22B', '29', '30']
+HN: ['03', '04', '05', '06', '09', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19', '21', '22', '23', '24', '30B', '31B', '32B', '34', '35', '36', '37', '38', '39']
+DNG: []
+KHH: []
+DAK: ['01', '02B']
+GIL: []
+NGA: ['01']
